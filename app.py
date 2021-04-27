@@ -8,26 +8,24 @@
 #print("Hello "+name)
 #irth_year = input("Enter your birth year")
 
-#age = 2021 - int(birth_year)
-# print(age)
-# float()
-# bool()
-# str()
-"""first = input("First: ")
+
+
+first = input("First: ")
 second = input("Second: ")
 sum = float(first) + float(second)
-print("sum: "+str(sum))"""
+print("sum: "+str(sum))
 """course = 'Python for Beginners'
 print(course.upper())
 print(course)
 print(course.find('y'))
 print(course.replace('for', '4'))
 print(course.count('o'))
-print('Python' in course)"""
-"""print(10 / 3)
+#print('Python' in course)
+print(10 / 3)
 print(10 // 3)
 print(10 % 3)
-print(10 ** 3)"""
+print(10 ** 3)
+"""
 """x = 10
 print(x +3)
 x += 3
