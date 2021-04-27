@@ -8,7 +8,7 @@
 #print("Hello "+name)
 #irth_year = input("Enter your birth year")
 
-
+# NAWAR BDIER
 
 first = input("First: ")
 second = input("Second: ")
